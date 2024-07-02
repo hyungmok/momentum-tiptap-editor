@@ -31,6 +31,16 @@ npx shadcn-ui@latest add dropdown-menu
 npx shadcn-ui@latest add toggle
 ```
 
+## Usage
+
+```javascript
+import Editor from "@/components/editor/editor";
+
+export default function Home() {
+  return <Editor />
+}
+```
+
 ## Environment Varaibles
 
 Before using the image upload feature, add the following environment variables. You can get those variables from Cloudiary after signing up:
