@@ -1,5 +1,6 @@
 import { cn } from "@/lib/utils";
 import "@/styles/globals.css";
+import { GoogleAnalytics } from "@next/third-parties/google";
 import type { Metadata } from "next";
 import { ThemeProvider } from "next-themes";
 import { Inter as FontSans } from "next/font/google";
@@ -76,6 +77,7 @@ export default function RootLayout({
           {children}
         </ThemeProvider>
       </body>
+      <GoogleAnalytics gaId="G-WD8TCTKT0E" />
     </html>
   );
 }
