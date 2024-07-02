@@ -30,3 +30,10 @@ npx shadcn-ui@latest init
 npx shadcn-ui@latest add dropdown-menu
 npx shadcn-ui@latest add toggle
 ```
+
+## Environment Varaibles
+
+Before using the image upload feature, add the following environment variables. You can get those variables from Cloudiary after signing up:
+
+- NEXT_PUBLIC_CLOUDINARY_CLOUD_NAME
+- NEXT_PUBLIC_CLOUDINARY_UPLOAD_PRESET
