@@ -2,7 +2,7 @@ import Editor from "@/components/editor/editor";
 
 export default function Home() {
   return (
-    <main className="flex min-h-screen place-items-center justify-center bg-white p-4">
+    <main className="flex min-h-screen place-items-center justify-center p-4">
       <div className="w-full max-w-5xl">
         <div className="text-center space-y-5">
           <div>
