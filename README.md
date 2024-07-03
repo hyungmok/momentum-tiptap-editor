@@ -2,7 +2,7 @@
 
 # Momentum Tiptap Editor
 
-A powerful and customizable rich text editor built with Tiptap, Shadcn, Next.js, emoji-picker-react, and Cloudinary. This editor combines the flexibility of Tiptap with modern UI components, robust framework support, expressive emoji integration, and seamless image management.
+A customizable rich text editor built with Tiptap, Shadcn, Next.js, emoji-picker-react, and Cloudinary. This editor combines the flexibility of Tiptap with modern UI components, robust framework support, expressive emoji integration, and seamless image management.
 
 ## Features
 
